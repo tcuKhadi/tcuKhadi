@@ -5,7 +5,7 @@
 
 ## About Me
 
-- Software engineering trainee at **WeThinkCode_**, Occupational Certificate: Software Engineer (QCTO, NQF Level 6, SAQA ID 119458), Sep. 2025 to Dec. 2026
+- Software engineering trainee at **WeThinkCode_**, Occupational Certificate: Software Engineer, Sep. 2025 to Dec. 2026
 - **AWS re/Start** cohort at WeThinkCode_, preparing for the **AWS Certified Cloud Practitioner (CLF-C02)** exam
 - Recruitment Ambassador at WeThinkCode_ since Oct. 2025, teaching Python fundamentals and professional skills to new candidates
 - Cloud training covering Linux, networking, security, Python, databases, systems operations, serverless and infrastructure as code (CloudFormation)
